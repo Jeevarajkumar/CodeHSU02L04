@@ -1,4 +1,4 @@
-package CodeHSU02L04;
+ 
 
 public class Rectangle
 {
